@@ -35,7 +35,7 @@ public class MockitoTests {
         Mockito.verify(lista).size();
 
         //verifica qntas vezes o lista.size() foi executado
-        Mockito.verify(lista, Mockito.times(2)).size();
+        Mockito.verify(lista, Mockito.times(1)).size();
     }
 
     @Test

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exercicios-sb/exercicios-sb.iml" filepath="$PROJECT_DIR$/exercicios-sb/exercicios-sb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testes junit/testes_spring/Projeto Spring de Teste/ms-teste.iml" filepath="$PROJECT_DIR$/testes junit/testes_spring/Projeto Spring de Teste/ms-teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projeto Spring de Teste/ms-teste (1).iml" filepath="$PROJECT_DIR$/Projeto Spring de Teste/ms-teste (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot.iml" filepath="$PROJECT_DIR$/.idea/springboot.iml" />
+    </modules>
+  </component>
+</project>
