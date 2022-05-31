@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../springboot/library/library/library.iml" filepath="$PROJECT_DIR$/../../../springboot/library/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../teste pancary/pamcary/ms-clientes/ms-clientes.iml" filepath="$PROJECT_DIR$/../../../teste pancary/pamcary/ms-clientes/ms-clientes.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../springboot/ms-spring/ms-spring.iml" filepath="$PROJECT_DIR$/../../../springboot/ms-spring/ms-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../springboot/testes junit/testes_spring/Projeto Spring de Teste/ms-teste.iml" filepath="$PROJECT_DIR$/../../../springboot/testes junit/testes_spring/Projeto Spring de Teste/ms-teste.iml" />
     </modules>
   </component>
 </project>
